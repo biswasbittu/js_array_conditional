@@ -1,4 +1,4 @@
-var Brands=['Nike','Addidus','Reabok'];
+// var Brands=['Nike','Addidus','Reabok'];
 // Brands.push('Puma');
 // Brands.push('Air');
 
