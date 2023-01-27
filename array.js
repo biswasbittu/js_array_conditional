@@ -4,4 +4,6 @@ var viwels=['a','e','i','o','u'];
 // console.log(ShoosBrands)
 // console.log(ShoosBrands.length)
 
-console.log(viwels.length)
+// console.log(viwels.length)
+
+console.log()
